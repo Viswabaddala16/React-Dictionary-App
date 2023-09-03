@@ -1,0 +1,39 @@
+/* Word box */
+.word-box {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 20px 20px;
+    background-color: #f9f9f9;
+    box-shadow: 0 5px 10px rgba(0,0,0,.2);
+  }
+  
+  /* Phonetics */
+  .phonetics {
+    margin-bottom: 10px;
+  }
+  
+  /* Part of Speech */
+  .part-of-speech {
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  /* Definition */
+  .definition {
+    margin-left: 15px;
+  }
+  
+  /* Synonyms and Antonyms */
+  .synonyms-antonyms {
+    margin-left: 15px;
+    font-style: italic;
+  }
+  
+  /* Container for word details */
+  .word-details-container {
+    display: flex;
+    flex-direction: column;
+    
+    
+  }
+  

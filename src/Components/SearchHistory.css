@@ -1,0 +1,16 @@
+.search-history{
+    display: flex;
+    flex-direction: column;
+    background-color: #fff;
+    box-sizing: border-box;
+    box-shadow: 0 5px 5px rgba(0,0,0,0.2);
+}
+.search-history ul{
+    margin-top: 0;
+    list-style-type: none;
+    
+}
+.search-history h2{
+
+margin: 10px 0 0 40px;
+}
